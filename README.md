@@ -1,9 +1,11 @@
-## Hi there 👋 It's me Vishal
+## Hey there 👋 I'm Vishal R
 
 Computer Science Engineering Student
 - 🔭 Here's my [portfolio]                                                 
 - Engineeing at SRM UNIVERSITY
 - Social Presence
+
+### Full Stack developer
 
 
 ### I code in
