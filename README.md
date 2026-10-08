@@ -85,13 +85,3 @@ MySQL · MongoDB · SQLite
 Git · GitHub · Docker · VS Code · Vercel
 
 ---
-
-## Currently Learning
-
-```text
-Data Structures & Algorithms
-Full-Stack Engineering
-Artificial Intelligence
-Computer Vision
-Backend Development
-Cloud & DevOps
