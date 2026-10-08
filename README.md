@@ -6,7 +6,7 @@ I build software with a focus on **AI, full-stack development, and real-world pr
 
 Currently pursuing Computer Science Engineering at **SRM University**, while strengthening my skills in software engineering, data structures, and intelligent systems.
 
-[Portfolio](https://vishal-portfolio-xi-six.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vishal-r-805091293) · [GitHub](https://github.com/VishalR-14)
+[Portfolio](https://vishal-portfolio-xi-six.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vishal-r-805091293) 
 
 ---
 
