@@ -1,51 +1,97 @@
-# Hey, I'm Vishal R 👋
+# Vishal R
 
-### Computer Science Student • Software Developer • AI Enthusiast
+### Computer Science Student · Software Developer · AI Enthusiast
 
-I'm a Computer Science Engineering student at **SRM University** who enjoys building intelligent software, exploring modern technologies, and solving real-world problems through code.
+I build software with a focus on **AI, full-stack development, and real-world problem solving**.
 
-Currently focused on **Software Engineering, AI, Full-Stack Development, and DSA**.
+Currently pursuing Computer Science Engineering at **SRM University**, while strengthening my skills in software engineering, data structures, and intelligent systems.
 
-<p align="left">
-  <a href="https://vishal-portfolio-xi-six.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishal-r-805091293">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VishalR-14">
-    <img src="https://img.shields.io/badge/GitHub-VishalR--14-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[Portfolio](https://vishal-portfolio-xi-six.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vishal-r-805091293) · [GitHub](https://github.com/VishalR-14)
 
 ---
 
-## 🚀 What I'm Building
+## About
+
+- 🎓 Computer Science Engineering student
+- 💻 Interested in software engineering and full-stack development
+- 🤖 Exploring AI, computer vision, and intelligent systems
+- 🧠 Currently improving DSA and problem-solving
+- 🚀 Building projects that solve practical problems
+
+---
+
+## Selected Projects
 
 ### 🎯 AI-Based Student Placement Intelligence System
+
 **Major Project · AI / Full Stack · In Development**
 
-An intelligent placement platform designed to analyze student profiles, skills, resumes, and placement requirements to provide personalized preparation and career insights.
+An intelligent platform designed to analyze student profiles, skills, resumes, and placement requirements to provide personalized preparation and career insights.
 
-**Focus:** AI • Full Stack Development • Student Analytics • Career Intelligence
+`Next.js` `TypeScript` `Python` `AI`
 
 ---
 
 ### 🛡️ AI Smart Campus Safety System
+
 **Computer Vision · AI · Built**
 
 A real-time computer vision system designed to monitor campus environments, detect crowd situations, and support automated security alerts.
 
-**Focus:** Computer Vision • Object Detection • Real-Time Monitoring • Automation
+`Python` `YOLO` `OpenCV` `Flask`
 
 ---
 
-## 🧠 What I'm Currently Learning
+### 🤖 CampusGPT
+
+AI-powered chatbot focused on providing useful information and assistance for Indian college students.
+
+`Python` `FastAPI` `HuggingFace` `Chroma`
+
+---
+
+### 📄 AI Resume Analyzer
+
+A web application for analyzing resumes and generating structured insights and scoring.
+
+`Python` `Flask` `AI`
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Python · Java · C++ · C · JavaScript · TypeScript · SQL
+
+**Frontend**
+
+React · Next.js · HTML · CSS · Tailwind CSS
+
+**Backend**
+
+Node.js · Flask · FastAPI
+
+**AI / Computer Vision**
+
+OpenCV · YOLO · Machine Learning · NLP
+
+**Databases**
+
+MySQL · MongoDB · SQLite
+
+**Tools**
+
+Git · GitHub · Docker · VS Code · Vercel
+
+---
+
+## Currently Learning
 
 ```text
-DSA & Problem Solving       ███████████████░░░
-Python                      ████████████████░░
-Full Stack Development      ███████████████░░░
-Artificial Intelligence     ██████████████░░░░
-System Design               ████████░░░░░░░░░
-Cloud & DevOps              ████████░░░░░░░░░
+Data Structures & Algorithms
+Full-Stack Engineering
+Artificial Intelligence
+Computer Vision
+Backend Development
+Cloud & DevOps
