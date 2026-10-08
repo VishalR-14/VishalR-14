@@ -20,7 +20,7 @@ Currently pursuing Computer Science Engineering at **SRM University**, while str
 
 ---
 
-## Selected Projects
+## Projects
 
 ### 🎯 AI-Based Student Placement Intelligence System
 
@@ -50,13 +50,6 @@ AI-powered chatbot focused on providing useful information and assistance for In
 
 ---
 
-### 📄 AI Resume Analyzer
-
-A web application for analyzing resumes and generating structured insights and scoring.
-
-`Python` `Flask` `AI`
-
----
 
 ## Tech Stack
 
